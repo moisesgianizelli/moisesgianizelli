@@ -13,7 +13,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22qss4iy7vbpgkeqoxzwd7zri)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22qss4iy7vbpgkeqoxzwd7zri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22qss4iy7vbpgkeqoxzwd7zri&redirect=true)
 <br/>
 ---
     
