@@ -1,5 +1,5 @@
-
-## Courses and Personal Projects
+<details>
+<summary>Courses and Personal Projects</summary>
 
 #### Library Application - FullStack
 - [Frontend React/TypeScript](https://github.com/moisesgianizelli/library-project-frontend)
@@ -20,7 +20,11 @@
 - [BMI Calculator - JavaScript](https://github.com/moisesgianizelli/BMICalculator)
 - [Role Card Game - JavaScript](https://github.com/moisesgianizelli/RoleCardGame)
 
-## College Projects
+
+</details>
+<details>
+<summary>College Projects</summary>
+
 
 - [Music Workshop - Next.JS/Node.js](https://github.com/moisesgianizelli/serverSideProject)
 - [Distributed System Programming - Python](https://github.com/moisesgianizelli/DistribuitedSystemProgramming)
@@ -43,8 +47,13 @@
 - [Pachi Game - C++](https://github.com/moisesgianizelli/PachiGame)
 - [Tax Calculator - Python](https://github.com/moisesgianizelli/TaxCalculator)
 - [Cable Company System - C++](https://github.com/moisesgianizelli/KingdomCableServiceProject)
+  </details>
 
-## Freelancing
+<details>
+<summary>Freelancing</summary>
+  
 - [Policy Page for a Store - HTML/CSS](https://github.com/moisesgianizelli/CardPage)
 - [FAQ Page for a Store - HTML/CSS](https://github.com/moisesgianizelli/FAQPage)
 - [Return Policy Page for a Store - HTML/CSS](https://github.com/moisesgianizelli/ReturnPolicyPage)
+  
+</details>
